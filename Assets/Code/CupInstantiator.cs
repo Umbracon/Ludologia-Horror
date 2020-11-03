@@ -23,7 +23,7 @@ public class CupInstantiator : MonoBehaviour
         locY = celling.localPosition.y;
         locZ = celling.localPosition.z;
 
-        // print an identity quaternion on Awake (hi Kris, i'm glad u're readin' this, xoxo)
+        // print an identity quaternion on Awake (hi Kris)
         #region
         //Debug.Log("x: " + Quaternion.identity.x);
         //Debug.Log("y: " + Quaternion.identity.y);
